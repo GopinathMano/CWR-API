@@ -1,4 +1,3 @@
-// 57bc97564ab0aed6f230fe1818ce4d26
 let cities = document.querySelector(".city");
 let search = document.querySelector(".search");
 let todayTime = document.querySelector(".time");
